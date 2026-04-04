@@ -1,5 +1,5 @@
 import ParticleBackground from './components/particlebackground';
-import Navbar from './components/frontend/navbar';
+import Navbar from './components/frontend/sidebar';
 import Hero from './components/frontend/hero';
 import AboutSection from './components/frontend/aboutsection';
 import StatSection from './components/frontend/statsection';
